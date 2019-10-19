@@ -31,4 +31,5 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/my-second-post.md
 - content/blog-posts/my-first-post.md
