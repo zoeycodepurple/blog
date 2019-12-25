@@ -1,7 +1,6 @@
 +++
 author = ""
 date = 2019-12-25T07:00:00Z
-draft = true
 hero = ""
 title = "hey it's me again!"
 type = "blog"
