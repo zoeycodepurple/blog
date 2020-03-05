@@ -31,7 +31,6 @@ fields:
   name: hero
   label: Hero Image
 pages:
-- content/blog-posts/do-you-want-to-play-roblox.md
 - content/blog-posts/hey-it-s-me-again.md
 - content/blog-posts/hi-its-been-a-while.md
 - content/blog-posts/my-discord-sever-for-roblox.md
