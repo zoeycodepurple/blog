@@ -32,6 +32,7 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/hey-it-s-me-again.md
+- content/blog-posts/hi-guys..listen-to-this-playlist.md
 - content/blog-posts/hi-its-been-a-while.md
 - content/blog-posts/my-first-post.md
 - content/blog-posts/my-second-post.md
